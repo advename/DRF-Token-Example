@@ -14,7 +14,7 @@ itypes==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 pycodestyle==2.5.0
-Pygments==2.6.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pytz==2019.3
 requests==2.23.0
